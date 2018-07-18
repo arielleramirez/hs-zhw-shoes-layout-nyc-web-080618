@@ -69,12 +69,14 @@
   width: 30%;
   background: #ccc;
   margin:44px 22px 0 0;
+  background-color:#ECECEC;
 }
 .col-7 {
   float: left;
   width: 30%;
   background: #ccc;
   margin:44px 22px  0 22px;
+  background-color:#ECECEC;
  
 }
 .col-8 {
@@ -82,6 +84,7 @@
   width: 30%;
   background: #ccc;
   margin:44px 0 0 22px;
+  background-color:#ECECEC;
  
 }
 
