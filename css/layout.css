@@ -67,7 +67,6 @@
 .col-6 {
   float: left;
   width: 30%;
-  background: #ccc;
   margin:44px 22px 0 0;
   background: rgb(229,229,229);
   padding:10px;
@@ -76,8 +75,7 @@
 .col-7 {
   float: left;
   width: 30%;
-  background: #ccc;
-  margin:44px 22px  0 22px;
+  margin:44px 22px 0 22px;
   background: rgb(229,229,229);
   padding:10px;
  
@@ -85,7 +83,6 @@
 .col-8 {
   float: left;
   width: 30%;
-  background: #ccc;
   margin:44px 0 0 22px;
   background: rgb(229,229,229);
   padding:10px;
