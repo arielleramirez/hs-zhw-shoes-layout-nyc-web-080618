@@ -43,4 +43,16 @@
   background: #ccc;
  
 }
+.col-4 {
+  float: right;
+  width: 30%;
+  background: #ccc;
+ 
+}
+.col-5 {
+  float: right;
+  width: 30%;
+  background: #ccc;
+ 
+}
 
