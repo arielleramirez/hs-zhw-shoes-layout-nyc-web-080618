@@ -47,20 +47,20 @@
   float: left;
   width: 30%;
   background: #ccc;
-  margin:10px 10px 0 0;
+  margin:10px 20px 0 0;
 }
 .col-4 {
   float: left;
   width: 30%;
   background: #ccc;
-  margin:10px 10px  0 10px;
+  margin:10px 20px  0 20px;
  
 }
 .col-5 {
   float: left;
   width: 30%;
   background: #ccc;
-  margin:10px 0 0 10px;
+  margin:10px 0 0 20px;
  
 }
 
