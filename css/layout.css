@@ -64,3 +64,24 @@
  
 }
 
+.col-6 {
+  float: left;
+  width: 30%;
+  background: #ccc;
+  margin:44px 22px 0 0;
+}
+.col-7 {
+  float: left;
+  width: 30%;
+  background: #ccc;
+  margin:44px 22px  0 22px;
+ 
+}
+.col-8 {
+  float: left;
+  width: 30%;
+  background: #ccc;
+  margin:44px 0 0 22px;
+ 
+}
+
