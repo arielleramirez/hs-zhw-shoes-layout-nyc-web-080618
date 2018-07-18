@@ -26,18 +26,18 @@
 
 .col-1 {
   float: left;
-  width: 66%;
+  width: 50%;
   background: #ccc;
-  margin:10px 0 0 0;
+  margin:10px 5px 0 0;
   
 
 }
 
 .col-2 {
   float: right;
-  width: 26%;
+  width: 50%;
   background: #ccc;
-  margin:10px 0 50px 38px;
+  margin:10px 0 50px 5px;
   
  
 }
