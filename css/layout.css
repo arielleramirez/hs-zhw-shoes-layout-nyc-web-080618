@@ -29,3 +29,9 @@
   width: 60%;
   background: #ccc;
 }
+
+.col-2 {
+  float: right;
+  width: 32%;
+  background: #ccc;
+}
